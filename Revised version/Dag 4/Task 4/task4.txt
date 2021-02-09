@@ -1,0 +1,21 @@
+
+Task 4:
+
+Bilder:
+Q matrix tuning:
+-gode q verdier
+-mindre gode q verdier
+-0
+-infinite(10000))
+
+Switch: disconnect from time to time(with best q values) and P matrix
+-turn off a lot:
+-turn off some:
+-dont turn off:
+
+Task 5:
+
+Bilder:
+Q matrix tuning with kalman filter feedback:
+-Fine tuning
+-Compare with Luenberger and encoder

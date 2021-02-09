@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConfigurationCreationDate</key>
+	<date>2020-11-15T14:48:13Z</date>
+	<key>ConfigurationVolumeUUID</key>
+	<string>501AB6EE-EBFA-39A9-973F-A39615AA34C9</string>
+	<key>Exclusions</key>
+	<array/>
+	<key>Stores</key>
+	<dict>
+		<key>A43B451E-EBA2-4208-A94C-1CCEED4D9AA5</key>
+		<dict>
+			<key>PartialPath</key>
+			<string>/</string>
+			<key>PolicyLevel</key>
+			<string>kMDConfigSearchLevelReadWrite</string>
+			<key>PolicyProcess</key>
+			<string>com.apple.spotlight.IndexAgent</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

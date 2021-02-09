@@ -1,0 +1,6 @@
+Task 1:
+
+a) They are almost identical. Except for the elevation rate which were damped because of et lavpassfilter. Vi prøvde på¨nytt uten lavpassfilteret og nå ble det identisk:)
+This can be forklart by the LPF. 
+
+b) Så lenge the angles were under pi/2 degrees then the plot viste fornuftige resultater and følgte the plot pretty bra;)

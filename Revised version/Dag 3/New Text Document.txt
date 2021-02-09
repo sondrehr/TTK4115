@@ -1,0 +1,11 @@
+
+1) They are almost identical. Except for the elevation rate which were damped because of et lavpassfilter. Vi prøvde på¨nytt uten lavpassfilteret og nå ble det identisk:)
+This can be forklart by the LPF. 
+
+2) Så lenge the angles were under pi/2 degrees then the plot viste fornuftige resultater and følgte the plot pretty bra;)
+
+3) For at en state skal være observerbar så må man kunne måle alle statene som den førstnevnte staten er avhengig av. Hvis f.eks. p_dot = v*e_dot og e_dot ikke er målbar er hvertfall ikke p_dot observerbar
+asumptions for accelerometer is that we dont think that sentripitalacceleration has any efect which it does!!
+
+4) Verdiene til Q matrisen var for høye som gjorde at de overskygget de andre verdiene. Beste tuning av estimator = -5 -6 -7 -7 -8
+Vi brukte state estimatoren som feeback mens vi tunet observatoren og filteret! istedenfor bare filteret som oppgaven sier
